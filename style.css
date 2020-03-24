@@ -1,0 +1,56 @@
+
+#navbar {
+    background-color: white;
+    height: 3rem;
+    width: 100%;
+    margin: 5px;
+}
+#mainsection {
+    background-color: lightgrey;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0.5%;
+    margin: 5px;
+    width: 95%;
+    height: 30rem;
+}
+
+#videosection {
+    background-color: white;
+    /* height: 50%; */
+    width: 71%;
+    left: 2%;
+    /* padding-right: 2%; */
+    /* height: 100%; */
+    position: fixed;
+    /* z-index: 1; */
+    /* top: 0; */
+    /* overflow-x: hidden; */
+    /* padding-top: 20px; */
+}
+
+#sidesection {
+    background-color: white;
+    width: 22%;
+    /* margin-left: 2%; */
+    right: 3%;
+    /*float: right;*/
+    /* height: 100%; */
+    position: fixed;
+    /* z-index: 1; */
+    /* top: 0; */
+    /* overflow-x: hidden; */
+    /* padding-top: 20px; */
+}
+
+
+#video {
+    background-color: yellow;
+    height:50%
+}
+
+#description {
+    background-color: red;
+    height: 25%;
+
+}

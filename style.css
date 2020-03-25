@@ -1,4 +1,5 @@
 
+
 #navbar {
     background-color: white;
     height: 3rem;
@@ -50,7 +51,7 @@
 }
 
 #description {
-    background-color: lightgrey;
+    background-color:white;
     height: 25%;
 
 }
@@ -75,13 +76,15 @@
 }
 
 #video-detail{
-    background-color: whitesmoke;
-    margin-top: 2%;
-    margin-bottom: 2%;
+    background-color: rgb(255, 255, 255);
+    backgr
 }
 
 #video-description{
     background-color: white;
-    margin-top: 2%;
-    margin-bottom: 2%;
+    
+}
+
+#views-span{
+    
 }

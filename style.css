@@ -7,6 +7,7 @@ body{
     margin: 8% 11% ;
     border: solid 1px;
     
+    
 }
 /*================================The Navbar CSS Works================================*/
 #nav-div{
@@ -80,5 +81,4 @@ body{
 #side-div{
     display: flex;
     flex-flow: column nowrap;
-    float: right;
 }

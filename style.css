@@ -1,60 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
+.container {
+overflow-y: scroll;
+height: 250px;
+width: 250px;
+}
 
 #navbar {
     background-color: white;
     height: 3rem;
-    width: 100%;
-    margin: 5px;
 }
 #mainsection {
     background-color: lightgrey;
-    padding-left: 2.5%;
-    padding-right: 2.5%;
-    padding-top: 0.5%;
-    margin: 5px;
-    width: 95%;
-    height: 30rem;
+    /* padding-left: 7.5%;
+    padding-right: 7.5%; */
+    padding-top: 2%;
+    /* height: 30rem; */
 }
 
 #videosection {
-    background-color: white;
-    /* height: 50%; */
-    width: 68%;
-    left: 2%;
-    /* padding-right: 2%; */
+    background-color: lightgrey;
+    width: 58%;
     height: 100%;
     position: fixed;
-    /* z-index: 1; */
-    /* top: 0; */
-    /* overflow-x: hidden; */
-    /* padding-top: 20px; */
+    left: 6.5%;
 }
 
 #sidesection {
-    background-color: white;
-    width: 25%;
-    /* margin-left: 2%; */
-    right: 3%;
-    /*float: right;*/
+    background-color: lightgrey;
+    width: 27%;
     height: 100%;
     position: fixed;
-    /* z-index: 1; */
-    /* top: 0; */
-    /* overflow-x: hidden; */
-    /* padding-top: 20px; */
+    right: 7.5%;
 }
 
 
-#video {
-    background-color:lightgrey;
-    height:50%
-}
-
-#description {
+/* #video {
     background-color:white;
-    height: 25%;
+    margin-top: 5%;
+} */
 
+#main{
+    height:53%;
+    background-color:white;
 }
+
+#detail {
+    height: 17.5%;
+    background-color:white;
+    margin-top: 0.5%;
+    padding: 1% 2% 1% 2%;
+}
+
+#description{
+    height: 12%;
+    background-color:white;
+    margin-top: 0.5%;
+    padding: 1% 2% 1% 2%;
+}
+
+#comment{
+    /* height: 9%; */
+    background-color:white;
+    margin-top: 0.5%;
+    padding: 1% 2% 1% 2%;
+}
+
 #sign-btn{
     background-color: blue;
     color: white;
@@ -72,17 +87,7 @@
 }
 
 #video-title{
-    margin-left: 2% ;
-}
-
-#video-detail{
-    background-color: rgb(255, 255, 255);
-    backgr
-}
-
-#video-description{
-    background-color: white;
-    
+    padding: 1% 0% 1% 1%;
 }
 
 #views-span{

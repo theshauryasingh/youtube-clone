@@ -79,6 +79,26 @@ body{
 #main-section{
     display: flex;
     flex-flow: row nowrap;
+    /* padding: 0% 2% 1% 2%; */
+}
+
+
+#detail {
+    background-color:white;
+    margin-top: 0.5%;
+    padding: 1% 2% 1% 2%;
+}
+
+#description{
+    background-color:white;
+    margin-top: 0.5%;
+    padding: 1% 2% 1% 2%;
+}
+
+#comment{
+    background-color:white;
+    margin-top: 0.5%;
+    padding: 1% 2% 1% 2%;
 }
 
 /*============================================Main-Section Side Bar CSS ==============================================*/

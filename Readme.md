@@ -1,6 +1,6 @@
 # Project Name
 
-This client side clone of Youtube.com
+This client side clone of https://youtube.com
 
 ![screenshot](https://github.com/theshauryasingh/youtube-clone/blob/feature-2/app_screenshot.png)
 

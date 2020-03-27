@@ -43,6 +43,7 @@ Not available now
 👤 **Rashid Mammadli**
 
 - Github: https://github.com/8Bts
+- Twitter: https://twitter.com/Rasheed49705929
 - Linkedin: https://www.linkedin.com/in/rashid-mammadli-62b9b1171/
 
 ## 🤝 Contributing

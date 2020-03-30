@@ -13,7 +13,7 @@ This client side clone of https://youtube.com
 
 ## Live Demo
 
-https://rawcdn.githack.com/theshauryasingh/youtube-clone/dec0903ff921bd0dfccf601a16ada8a0abbab270/index.html
+https://rawcdn.githack.com/theshauryasingh/youtube-clone/eb35733739884a6ba2ac485384a0ba632d98cd08/index.html
 
 
 ## Getting Started

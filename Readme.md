@@ -13,23 +13,7 @@ This client side clone of https://youtube.com
 
 ## Live Demo
 
-https://rawcdn.githack.com/theshauryasingh/youtube-clone/eb35733739884a6ba2ac485384a0ba632d98cd08/index.html
-
-
-## Getting Started
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+https://rawcdn.githack.com/theshauryasingh/youtube-clone/09745355a73f55aa798e159238b28bba5463e7b2/index.html
 
 
 ## Authors
@@ -39,12 +23,15 @@ https://rawcdn.githack.com/theshauryasingh/youtube-clone/eb35733739884a6ba2ac485
 - Github: https://github.com/theshauryasingh
 - Twitter: https://twitter.com/theshauryasingh
 - Linkedin: https://www.linkedin.com/in/shaurya-singh-23291a101/
+- Email: shauryasingh96@gmail.com
+
 
 👤 **Rashid Mammadli**
 
 - Github: https://github.com/8Bts
 - Twitter: https://twitter.com/Rasheed49705929
 - Linkedin: https://www.linkedin.com/in/rashid-mammadli-62b9b1171/
+- Email: mcmizze@yahoo.com
 
 ## 🤝 Contributing
 

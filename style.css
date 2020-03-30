@@ -245,7 +245,7 @@ body{
 /*============================================Main-Section Side Bar CSS ==============================================*/
 #side-bar{
     margin-left: 2%;
-    margin-right: 6%;
+    width: 32%;
 }
 #side-div{
     display: flex;
@@ -265,17 +265,13 @@ body{
 }
 .upnext{
     margin-left: 1rem;
-    margin-right: 14rem;
+    margin-right: 13rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.1rem;
 }
-.sbts-i{
-    color: gray;
-    margin: 0% 2%
-}
 .sbts-autop{
     color: rgb(22, 122, 198);
-   
+    margin-left: 2%;
 }
 div.tmb-div{
     display: flex;
@@ -289,7 +285,7 @@ img.tmb-img{
 }
 .tmb-span1{
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-weight: bolder;
 }
 .tmb-span2{

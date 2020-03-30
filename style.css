@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(241, 235, 235);    
+    background-color: #F9F9F9
+;    
 }
 
 #main-cont{
@@ -58,48 +59,6 @@ body{
     color: #606060
 }
 
-/*=============================Blue Div (Choose your languge)==============================================*/
-
-
-#blue-div{
-    background-color: rgb(22, 122, 198);
-    margin: 1% 0% 1% 0%;
-}
-#lang-icon-user{
-    color: white;
-    margin: 1% 1% 0% 1%;
-}
-#white-div{
-    background-color: white;
-    margin: 0.2% 0.1% 0% 0.1%;
-    padding: 1% 0% 1% 0%;
-    border: solid  rgb(22, 122, 198) 1px;
-}
-#t-span1{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: smaller;
-}
-#t-span2{
-    font-size: 95%;
-    margin-left: 45%;
-    color: rgb(22, 122, 198);
-}
-
-#blue-div-heading{
-    color:white; 
-    font-family:sans-serif; 
-    font-size: small;
-}
-
-.fas fa-times fa-xs {
-    color: white; 
-    float: right; 
-    margin: 0.5%
-}
-
-#blue-div-a{
-    text-decoration: none;
-}
 /*============================================Main-Section Video and details CSS ==============================================*/
 #main-section{
     display: flex;
@@ -109,7 +68,8 @@ body{
 
 
 #detail {
-    background-color:white;
+    background-color:#F9F9F9
+;
     margin-top: 0.5%;
     padding: 1% 2% 1% 2%;
 }
@@ -149,7 +109,8 @@ body{
 #subscribe-count{
     font-family: Arial, Helvetica, sans-serif;
     font-size: smaller;
-    background-color: rgb(241, 235, 235);
+    background-color: #F9F9F9
+;
 }
 
 #views-span{
@@ -224,29 +185,20 @@ body{
 }
 
 #description{
-    background-color:white;
+    background-color:#F9F9F9
+;
     margin-top: 0.5%;
     padding: 1% 2% 1% 2%;
-    font-size: smaller;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
 
 }
 
 #comment{
-    background-color:white;
+    background-color:#F9F9F9
+;
     margin-top: 0.5%;
     padding: 1% 2% 1% 2%;
-}
-
-#ex-span1{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: smaller;
-    background-color: rgb(241, 235, 235);
-}
-#ex-span2{
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: smaller;
-    color: rgb(102, 102, 102);
 }
 #ex-div1{
     color: #808080;
@@ -254,6 +206,18 @@ body{
 #ex-div2{
     display: flex;
     justify-content: center;
+}
+#ex-span1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    background-color: #F9F9F9;
+;
+}
+#ex-span2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: rgb(102, 102, 102);
 }
 #ex-span3{
     margin-right: 4%;
@@ -274,6 +238,10 @@ body{
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
 }
+.ex-icon2{
+    color: white;
+    margin: 1%;
+}
 /*============================================Main-Section Side Bar CSS ==============================================*/
 #side-bar{
     margin-left: 2%;
@@ -282,7 +250,8 @@ body{
 #side-div{
     display: flex;
     flex-flow: column nowrap;
-    background-color: white;
+    background-color: #F9F9F9
+;
 
 }
 #side-bar-top-div{
@@ -365,7 +334,8 @@ img.tmb-img{
 #footer-div{
     display: flex;
     flex-flow: column nowrap;
-    background-color: white;
+    background-color: #F9F9F9
+;
     margin: 10% 0%;
 }
 
@@ -380,7 +350,8 @@ img.tmb-img{
     margin: 0% 4%
 }
 .footer-span1{
-    background-color:rgb(241, 235, 235);
+    background-color:#F9F9F9
+;
     margin: 1% 1%;
     padding: 0.8%;
     font-family: Arial, Helvetica, sans-serif;

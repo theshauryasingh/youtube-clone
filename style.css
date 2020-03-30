@@ -9,7 +9,6 @@ body{
 /*================================The Navbar CSS Works================================*/
 #nav-div{
     display: flex;
-    position: relative;
     flex-flow: row nowrap;
     background-color: white;
 }
@@ -238,6 +237,43 @@ body{
     padding: 1% 2% 1% 2%;
 }
 
+#ex-span1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    background-color: rgb(241, 235, 235);
+}
+#ex-span2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: rgb(102, 102, 102);
+}
+#ex-div1{
+    color: #808080;
+}
+#ex-div2{
+    display: flex;
+    justify-content: center;
+}
+#ex-span3{
+    margin-right: 4%;
+}
+#ex-span4{
+    margin-right: 4%;
+}
+#ex-span5{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ex-span6{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(102, 102, 102); font-size: smaller;
+}
+#ex-span7{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
 /*============================================Main-Section Side Bar CSS ==============================================*/
 #side-bar{
     margin-left: 2%;
@@ -302,6 +338,7 @@ img.tmb-img{
     text-align: center;
     color: gray;
     margin-bottom: 1.2%;
+    text-decoration: none;
 }
 
 #side-bar-hr{
@@ -313,6 +350,16 @@ img.tmb-img{
     color: gray;
 }
 
+.hr-1{
+    width: 100%;
+}
+.ex-icon{
+    color: gray;
+}
+#ex-span8{
+    text-decoration: none;
+    color: gray;
+}
 /*============================================= Footer part CSS ===================================== */
 
 #footer-div{
@@ -366,7 +413,6 @@ img.tmb-img{
   
     align-self: center;
 }
-#sub-span{
-   
-    
+#hr-ft{
+    width: 91%;
 }

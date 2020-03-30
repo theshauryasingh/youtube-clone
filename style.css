@@ -1,0 +1,385 @@
+body{
+    background-color: #F9F9F9
+;    
+}
+
+#main-cont{
+    padding: 0%;
+    margin: 0% ;
+}
+/*================================The Navbar CSS Works================================*/
+#nav-div{
+    display: flex;
+    flex-flow: row nowrap;
+    background-color: white;
+}
+#logo-img{
+    width:7%;
+    align-self: center;
+    
+}
+#az-span{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65%;
+    color: rgb(128, 118, 118);
+    padding-top: 1.3%;
+}
+#input-s{
+    margin: 0.8% 0% 0.8% 10%;
+    width: 45%;
+    border: solid 1px rgb(187, 184, 184);
+}
+#btn-s{
+    width: 5%;
+    align-self: center;
+    margin-right: 6%;
+    height: 1.9rem;
+    border: solid 1px rgb(187, 184, 184);
+    background-color: #f8f8f8;
+}
+#sign-in-btn{
+    display: flex;
+    flex-flow: row nowrap;
+    white-space: nowrap;
+    background-color:white;
+    color: rgb(22, 122, 198);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    border: solid 1px rgb(22, 122, 198);
+    margin: 0.6%;
+    padding: 0.7% 1.2%;
+}
+.sbtn-i{
+    margin-right: 7%;
+}
+
+.nav-i{
+    align-self: center;
+    margin: 0% 1% 0% 2%;
+    color: #606060
+}
+
+/*============================================Main-Section Video and details CSS ==============================================*/
+#main-section{
+    display: flex;
+    flex-flow: row nowrap;
+    margin-left: 7%;
+}
+
+
+#detail {
+    background-color:#F9F9F9
+;
+    margin-top: 0.5%;
+    padding: 1% 2% 1% 2%;
+}
+
+#detail-title{
+    margin: 2% 1% 3% 1%;
+}
+
+#detail-span{
+    text-align: left; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 1.2rem ;
+}
+
+#div-channel-detail{
+    margin-bottom: 0.5%;
+}
+
+#div-channel-image{
+    width:6.8%; 
+    height:5%; 
+    float: left; 
+    margin-right: 1%;
+}
+
+#subscribe{
+    background-color: red;
+}
+
+#subscribe-button{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: white;
+    font-size: 0.8rem;
+    margin: 1%;
+}
+
+#subscribe-count{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    background-color: #F9F9F9
+;
+}
+
+#views-span{
+    float: right; 
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size: 1.4rem; 
+    color:rgb(102, 102, 102);
+}
+
+#detail-button{
+    color: #808080;
+}
+
+.detail-button{
+    margin-right: 4%
+}
+
+#like-dislike{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#description-text{
+    text-align: left; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: smaller; 
+    color: rgb(102, 102, 102)
+}
+
+#description-showmore{
+    display: flex; 
+    justify-content: center
+}
+
+#description-showmore-span{
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(102, 102, 102); 
+    font-size: smaller
+}
+
+#comment-count{
+    text-align: left; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fas fa-check-circle fa-xs{
+    color: gray;
+}
+
+#hr{
+    width: 100%;
+}
+
+.fas fa-check-circle fa-xs{
+    color: gray;
+}
+
+
+
+#channel-title{
+    display: block; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    margin: 1%;
+}
+
+.fab fa-youtube{
+    color: white;
+}
+.like-dislike-text{
+    font-size: xx-small;
+}
+
+#description{
+    background-color:#F9F9F9
+;
+    margin-top: 0.5%;
+    padding: 1% 2% 1% 2%;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#comment{
+    background-color:#F9F9F9
+;
+    margin-top: 0.5%;
+    padding: 1% 2% 1% 2%;
+}
+#ex-div1{
+    color: #808080;
+}
+#ex-div2{
+    display: flex;
+    justify-content: center;
+}
+#ex-span1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    background-color: #F9F9F9;
+;
+}
+#ex-span2{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    color: rgb(102, 102, 102);
+}
+#ex-span3{
+    margin-right: 4%;
+}
+#ex-span4{
+    margin-right: 4%;
+}
+#ex-span5{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ex-span6{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(102, 102, 102); font-size: smaller;
+}
+#ex-span7{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ex-icon2{
+    color: white;
+    margin: 1%;
+}
+/*============================================Main-Section Side Bar CSS ==============================================*/
+#side-bar{
+    margin-left: 2%;
+    width: 32%;
+}
+#side-div{
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: #F9F9F9
+;
+
+}
+#side-bar-top-div{
+    padding: 4% 0%;
+    display: flex;
+    flex-flow: row nowrap;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    white-space: nowrap;
+    align-items: center;
+    
+}
+.upnext{
+    margin-left: 1rem;
+    margin-right: 13rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.1rem;
+}
+.sbts-autop{
+    color: rgb(22, 122, 198);
+    margin-left: 2%;
+}
+div.tmb-div{
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 0% 4.4% 4% 0%;
+}
+img.tmb-img{
+    margin: 0% 5% 1% 1%;
+    width: 168px;
+    height: 92px;
+}
+.tmb-span1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    font-weight: bolder;
+}
+.tmb-span2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    font-size: small;
+}
+.tmb-views-span{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
+.show-more-span{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+    text-align: center;
+    color: gray;
+    margin-bottom: 1.2%;
+    text-decoration: none;
+}
+
+#side-bar-hr{
+    width: 100%;
+}
+
+#side-bar-showmore{
+    text-decoration: none;
+    color: gray;
+}
+
+#hr-1{
+    width: 100%;
+}
+.ex-icon{
+    color: gray;
+}
+#ex-span8{
+    text-decoration: none;
+    color: gray;
+}
+/*============================================= Footer part CSS ===================================== */
+
+#footer-div{
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: #F9F9F9
+;
+    margin: 10% 0%;
+}
+
+#hr-footer{
+    width: 94%;
+}
+
+#f-btns{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: baseline;
+    margin: 0% 4%
+}
+.footer-span1{
+    background-color:#F9F9F9
+;
+    margin: 1% 1%;
+    padding: 0.8%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 72%;
+    border: solid 0.1mm rgba(167, 163, 163, 0.5);
+}
+#f-div1{
+    margin: 1% 3.7%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+.footer-span2{
+    margin: 1% 1%;
+
+}
+#f-div2{
+    margin: 0% 0%  4% 3.6%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.72rem;
+    color: rgb(116, 111, 111);
+}
+.footer-span3{
+    margin: 1% 1.16%;
+}
+.f-i{
+    color: gray;
+}
+#logo-img-f{
+  
+    align-self: center;
+}
+#hr-ft{
+    width: 91%;
+}

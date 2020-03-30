@@ -85,6 +85,22 @@ body{
     margin-left: 45%;
     color: rgb(22, 122, 198);
 }
+
+#blue-div-heading{
+    color:white; 
+    font-family:sans-serif; 
+    font-size: small;
+}
+
+.fas fa-times fa-xs {
+    color: white; 
+    float: right; 
+    margin: 0.5%
+}
+
+#blue-div-a{
+    text-decoration: none;
+}
 /*============================================Main-Section Video and details CSS ==============================================*/
 #main-section{
     display: flex;
@@ -99,6 +115,111 @@ body{
     padding: 1% 2% 1% 2%;
 }
 
+#detail-title{
+    margin: 2% 1% 3% 1%;
+}
+
+#detail-span{
+    text-align: left; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 1.2rem ;
+}
+
+#div-channel-detail{
+    margin-bottom: 0.5%;
+}
+
+#div-channel-image{
+    width:6.8%; 
+    height:5%; 
+    float: left; 
+    margin-right: 1%;
+}
+
+#subscribe{
+    background-color: red;
+}
+
+#subscribe-button{
+    font-family: Arial, Helvetica, sans-serif; 
+    color: white;
+    font-size: 0.8rem;
+    margin: 1%;
+}
+
+#subscribe-count{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    background-color: rgb(241, 235, 235);
+}
+
+#views-span{
+    float: right; 
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size: 1.4rem; 
+    color:rgb(102, 102, 102);
+}
+
+#detail-button{
+    color: #808080;
+}
+
+.detail-button{
+    margin-right: 4%
+}
+
+#like-dislike{
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#description-text{
+    text-align: left; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: smaller; 
+    color: rgb(102, 102, 102)
+}
+
+#description-showmore{
+    display: flex; 
+    justify-content: center
+}
+
+#description-showmore-span{
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif; 
+    color:rgb(102, 102, 102); 
+    font-size: smaller
+}
+
+#comment-count{
+    text-align: left; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fas fa-check-circle fa-xs{
+    color: gray;
+}
+
+#hr{
+    width: 100%;
+}
+
+.fas fa-check-circle fa-xs{
+    color: gray;
+}
+
+
+
+#channel-title{
+    display: block; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    margin: 1%;
+}
+
+.fab fa-youtube{
+    color: white;
+}
 .like-dislike-text{
     font-size: xx-small;
 }
@@ -183,6 +304,15 @@ img.tmb-img{
     margin-bottom: 1.2%;
 }
 
+#side-bar-hr{
+    width: 100%;
+}
+
+#side-bar-showmore{
+    text-decoration: none;
+    color: gray;
+}
+
 /*============================================= Footer part CSS ===================================== */
 
 #footer-div{
@@ -191,6 +321,11 @@ img.tmb-img{
     background-color: white;
     margin: 10% 0%;
 }
+
+#hr-footer{
+    width: 94%;
+}
+
 #f-btns{
     display: flex;
     flex-flow: row nowrap;
